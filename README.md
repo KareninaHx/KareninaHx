@@ -1,10 +1,4 @@
-<h1 align="center"><b>Hi there 👋</b></h1>
-
-
-
-
-
-
+<h1 align="center"><b>Hi there 👋</b><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://giphy.com/embed/RIOIod8WeIj9rMhufv)" width="35"></h1>
 
 
 <!--
