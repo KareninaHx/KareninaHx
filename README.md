@@ -12,7 +12,7 @@
 <p align="center">
 
 - **Languages**:
-    
+    ![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badage&logo=Java&logoColor=white&label=Java&labelColor=white&color=white&cacheSeconds=3000)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
