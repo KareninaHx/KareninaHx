@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi there 👋</b><img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRobXpjbG41OGR2anowNXlwY3J1eDNidGdxanE4cGM1MXBrc3V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIOIod8WeIj9rMhufv/giphy.gif]" width="35"/></h1>
+<h1 align="center"><b>Hi there 👋</b></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <!--
